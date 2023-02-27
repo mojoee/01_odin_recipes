@@ -1,0 +1,13 @@
+/* styles.css */
+
+* {
+    font-family: "Papyrus", "Copperplate", "Lucida Handwriting", "Brush Script MT";
+    overflow: auto;
+    background-color: white;
+    border-color:transparent;
+    border-bottom:0;
+}
+
+.imgcnt {
+    background-color: transparent
+}
